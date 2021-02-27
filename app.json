@@ -5,14 +5,18 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "d831381d-6324-4d53-ad4f-8cda4fb30823"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
-            "value": "vmess"
+            "value": "vless"
+        },
+        "WSPATH": {
+            "description": "v2ray Websockt PATH",
+            "value": "/tlsl"
         }
     },
-    "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/kinto",
+    "website": "https://birchgrove.top",
+    "repository": "https://github.com/birchgrove/kinto",
     "stack": "container"
 }
